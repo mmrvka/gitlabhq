@@ -17,6 +17,7 @@ targets:
       - libicu-dev
       - cmake
       - pkg-config
+      - libkrb5-dev
     dependencies:
       - libicu52
       - libpcre3
